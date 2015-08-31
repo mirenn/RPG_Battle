@@ -377,7 +377,7 @@ namespace RPG_Battle
                         Console.Write("あなた「……自分を殺すようでは、もうおしまいです」\n");
                         Thread.Sleep(4000);
                         Console.Clear();
-                        Console.Write("あなた「うっ……」あなたが息を引き取るのと同時に、教頭先生は息を引き取った。\n\n全ては終わったのだ――End");
+                        Console.Write("あなた「うっ……」あなたが息を引き取るのと同時に、教頭先生は息を引き取った。\n\n全ては終わったのだ――End 学園物語～ドッペルゲンガーの宿命～");
 
 
                     }
